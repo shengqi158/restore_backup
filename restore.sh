@@ -1,6 +1,6 @@
 #!/bin/bash
 # 
-# Author:       liaoxinxi@nsfocus.com
+# Author:       liaoxinxi
 # 
 # Created Time: 2012年10月15日 星期一 19时10分02秒
 # 
