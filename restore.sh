@@ -1,10 +1,10 @@
 #!/bin/bash
 # 
-# Author:       liaoxinxi
+
 # 
 # Created Time: 2012年10月15日 星期一 19时10分02秒
 # 
-# FileName:     restore.sh
+
 # 
 # Description:  
 # 
@@ -32,10 +32,8 @@ then
     exit 1
 fi
 
-#local_dir="/home/liaoxinxi/"
+
 #target_dir="/tmp/"
-#user="liaoxinxi"
-#host="10.16.105.2"
 #password=""
 #lftp -u ${user},${password} sftp://${host} << EOF
 #lcd ${local_dir}
