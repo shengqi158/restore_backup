@@ -43,5 +43,5 @@ fi
 #EOF
 #
 #exit
-#[ -f /usr/local/pgsql/bin/pg_restore ] && [ -f /home/liaoxinxi/tbase.bak ]\
-#    && [ /usr/local/pgsql/bin/pg_restore -h "10.16.0.246" -p 5432 -U tbaseuser -d tbase /home/liaoxinxi/tbase.bak ]
+#[ -f /usr/local/pgsql/bin/pg_restore ] && [ -f /home/l/tbase.bak ]\
+#    && [ /usr/local/pgsql/bin/pg_restore -h "10.16.0.246" -p 5432 -U tbaseuser -d tbase /home/l/tbase.bak ]
